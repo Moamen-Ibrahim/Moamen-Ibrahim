@@ -10,7 +10,9 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
 I am a Front-End Web Developer skilled in React, Next.js, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+
+I have worked on projects that served thousands of users, built scalable applications,
+and continuously strive to improve my skills and contribute to impactful teams.
 
 <br clear="right"/>
 
@@ -21,6 +23,10 @@ I have worked on projects that served thousands of users, built scalable applica
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+
+
 
 
 
