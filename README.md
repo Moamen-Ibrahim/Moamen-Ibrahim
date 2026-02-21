@@ -1,12 +1,9 @@
 # Hey there, I'm Moamen Ibrahim 👋
 
-**Front-End Web Developer · CS Student · Coffee Lover ☕**
+**Front-End Web Developer · Business administration student · Technical expert**
 
-💼 **Current:** Tecinical at [Almadrsa](https://almdrasa.com)
+💼 **Current:** Technical expert at [Atlantis Developers](https://atlantisdevs.blogspot.com/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ## 🚀 About Me
 
