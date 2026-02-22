@@ -1,6 +1,15 @@
 # 💫 About Me:
-# Hey there, I'm Moamen Ibrahim 👋<br><br>**Front-End Web Developer · Business administration student · Technical expert**<br><br>💼 **Current:** Technical expert at [Atlantis Developers](https://atlantisdevs.blogspot.com/)<br><br>
+# Hey there, I'm Moamen Ibrahim 👋
 
+<br><br>
+
+*Front-End Web Developer · Business administration student · Technical expert*
+
+<br><br>
+
+💼 **Current:** Technical expert at [Atlantis Developers](https://atlantisdevs.blogspot.com/)
+
+<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moamenibrahim477) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moamen.ibrahim477) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moamen.ibrahim477) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ibrahim-2981533b0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moamen.ibrahim16) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoamenIbrahim47) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@moamenibrahim477) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moamenibrahim477@gmail.com) 
